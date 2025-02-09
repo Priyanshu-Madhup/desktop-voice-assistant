@@ -42,7 +42,7 @@
   <p align="center">
     An amazing AI to enhance your productivity by doing your simple jobs on spot!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Priyanshu-Madhup/desktop-voice-assistant"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
