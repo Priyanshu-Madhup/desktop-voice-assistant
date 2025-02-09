@@ -104,13 +104,10 @@ Here's why:
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * Tkinter
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* Gemini API
+* Llama 3.2:1b (open source model)
+* Llama3.2:3b (open source model)
+* Gemma:2b (open source model)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
