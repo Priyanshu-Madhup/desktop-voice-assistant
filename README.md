@@ -92,7 +92,7 @@ Here's why:
 * Syra AI responds in real time with natural conversation.
 * It features a wake word activation and smooth visual animations.
 * It integrates speech recognition, text-to-speech, and AI-powered responses.
-* Another great feature is that it can open <b>Files<b/> and Apps as per your need in your prompts.
+* Another great feature is that it can open Files and Apps as per your need in your prompts.
 * Of course, one AI assistant can't suit everyone’s needs. So, I’ll keep improving it! You can suggest changes by forking this repo and opening a pull request or issue. Thanks to everyone contributing to Syra AI’s future!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
