@@ -157,9 +157,13 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    pip install geopy
    ```
-5. Enter your API in the code
+5. Enter your Gemini API in the code
    ```js
    Gemini API_KEY = 'ENTER YOUR API';
+   ```
+6. Enter your OpenWeather API in the code
+   ```js
+   OpenWeather API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
