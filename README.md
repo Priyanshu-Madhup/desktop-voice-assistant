@@ -202,7 +202,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@PriyanshuMadhup](https://twitter.com/PriyanshuMadhup) - email@example.com
+Your Name - [@PriyanshuMadhup](https://twitter.com/PriyanshuMadhup) - priyanshumadhup@hotmail.com
 
 Project Link: [https://github.com/priyanshu-madhup/desktop-voice-assistant](https://github.com/priyanshu-madhup/desktop-voice-assistant)
 
