@@ -15,9 +15,9 @@ Please make sure to follow the project's code of conduct and adhere to the codin
 ## Contributors List
 
 - [Priyanshu Madhup](https://github.com/yourusername) - Lead Developer
-- [Contributor Name](https://github.com/contributor) - Contributor (Feature/Enhancement)
+<!--- [Contributor Name](https://github.com/contributor) - Contributor (Feature/Enhancement)
 - [Contributor Name](https://github.com/contributor) - Contributor (Bug Fix/Feature)
-
+-->
 > **Note**: Contributions are welcomed! Feel free to open issues or submit pull requests.
 
 ## Special Thanks
