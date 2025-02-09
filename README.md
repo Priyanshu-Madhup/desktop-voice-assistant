@@ -45,7 +45,7 @@
     <a href="https://github.com/Priyanshu-Madhup/desktop-voice-assistant"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://drive.google.com/file/d/1u_LbkzIIKXADKVfappuvMp1ZBPXDKkxe/view?usp=sharing">View Demo</a>
     &middot;
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
