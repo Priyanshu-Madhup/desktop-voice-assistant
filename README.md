@@ -90,9 +90,9 @@ There are many AI assistants available, but none truly met my needs, so I built 
 Here's why:
 
 *Syra AI responds in real time with natural conversation.
-*It features a wake word activation and smooth visual animations.
-*It integrates speech recognition, text-to-speech, and AI-powered responses.
-*Of course, one AI assistant can't suit everyone’s needs. So, I’ll keep improving it! You can suggest changes by forking this repo and opening a pull request or issue. Thanks to everyone contributing to Syra AI’s future!
+* It features a wake word activation and smooth visual animations.
+* It integrates speech recognition, text-to-speech, and AI-powered responses.
+* Of course, one AI assistant can't suit everyone’s needs. So, I’ll keep improving it! You can suggest changes by forking this repo and opening a pull request or issue. Thanks to everyone contributing to Syra AI’s future!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
