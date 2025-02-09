@@ -132,12 +132,13 @@ To get a local copy up and running follow these simple example steps.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free Gemini API Key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey) <br>
-2. Clone the repo
+1. Get a free Gemini API Key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)
+2. Get a free OpenWeather API Key at [https://openweathermap.org/api](https://openweathermap.org/api)
+3. Clone the repo
    ```sh
    git clone https://github.com/priyanshu-madhup/desktop-voice-assistant.git
    ```
-3. Install important packages
+4. Install important packages
    ```sh
    pip install pygame
    ```
@@ -156,7 +157,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    pip install geopy
    ```
-4. Enter your API in the code
+5. Enter your API in the code
    ```js
    Gemini API_KEY = 'ENTER YOUR API';
    ```
@@ -168,9 +169,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Syra AI is an intelligent desktop assistant that leverages advanced natural language processing to provide a seamless user experience. Integrated with a weather API, it can provide real-time weather updates, ensuring users stay informed. Additionally, Syra AI can open files and applications based on user commands, making it a versatile productivity tool. With its intuitive design and powerful backend, Syra AI is the perfect companion for anyone looking to simplify their daily tasks and access information effortlessly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
