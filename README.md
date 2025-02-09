@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Syra Ai Screen Shot](Screenshot%202025-02-09%20170803.png)](https://example.com)
+[![Syra Ai Screen Shot](Screenshot%202025-02-09%20170803.png)](https://drive.google.com/file/d/1qBdIHUEEDyZwK-ZoH_KMdRMMQGjL10i8/view?usp=sharing)
 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
