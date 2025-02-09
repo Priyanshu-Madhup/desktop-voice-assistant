@@ -183,7 +183,7 @@ def get_response(prompt):
             
         '''stream = ollama.chat(
             model=model2,
-            messages=[{'role': 'user', 'content': "(Limit your response in 50-100 words)If this prompt involves asking anything about introduction or who created or how are you then always answer that your name is Syra and you were created by a Legendary developer named Priyanshu Madhup who is currently a Machine Learning developer and is right now a college student pursuing engineering in CMR Institute of Technology, India , if nothing such asked then continue normally : " + prompt}],
+            messages=[{'role': 'user', 'content': "(Limit your response in 50-100 words)If this prompt involves asking anything about introduction or who created or how are you then always answer that your name is Syra and you were created by a Legendary developer named {your_name} who is currently a Machine Learning developer and is right now a college student pursuing engineering in CMR Institute of Technology, India , if nothing such asked then continue normally : " + prompt}],
             stream=True,
         )
         response=""
@@ -227,7 +227,7 @@ def give_intro(prompt):
     model = 'qwen:1.8b'
     stream = ollama.chat(
         model=model,
-        messages=[{'role': 'user', 'content': "Generate a message saying that your name is Syra who is basically an Ai model who was created by a Legendary Machine Learning Developer Mr.Priyanshu Madhup, who is currently pursuing his engineering in CMR Institute of Technology, Syra Ai was created on 2nd Feb, 2025 prompt : "+prompt}],
+        messages=[{'role': 'user', 'content': "Generate a message saying that your name is Syra who is basically an Ai model who was created by a Legendary Machine Learning Developer {your_name}, who is currently pursuing his engineering in CMR Institute of Technology, Syra Ai was created on 2nd Feb, 2025 prompt : "+prompt}],
         stream=True,
     )
         
