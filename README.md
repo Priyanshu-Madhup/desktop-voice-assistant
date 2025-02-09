@@ -132,7 +132,7 @@ To get a local copy up and running follow these simple example steps.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey) <br>
 2. Clone the repo
    ```sh
    git clone https://github.com/priyanshu-madhup/desktop-voice-assistant.git
